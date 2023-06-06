@@ -1,0 +1,7 @@
+BBC News Data
+
+
+For Three Months March to June 2nd. This data set updates daily
+
+
+Location: https://www.kaggle.com/datasets/gpreda/bbc-news?select=bbc_news.csv
